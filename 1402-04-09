@@ -1,0 +1,1973 @@
+<!DOCTYPE html>
+<html dir="rtl" lang="fa">
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset:utf-8" />
+<meta http-equiv="Content-language" content="fa" />
+<meta name="description" content="مهندس" />
+<meta name="keywords" content="موسوی" />
+<title>بیا به مقــر مهندس موسوی</title>
+<meta name="viewport" content="width=device-width">
+ <link rel="stylesheet" type="text/css" href="css/style.css">
+  <link rel="stylesheet" type="text/css" href="css/tamin.css">
+ <link rel="stylesheet" type="text/css" href="fonts/all.css">
+ <link rel="stylesheet" type="text/css" href="fonts/fa.min.css">
+ <link rel="stylesheet" type="text/css" href="fonts/icofont.min.css">
+ <link rel="stylesheet" type="text/css" href="fonts/fonts.css">
+ <link rel="stylesheet" type="text/css" href="css/4/bootstrap.min.css">
+ <link rel="stylesheet" type="text/css" href="css/5/bootstrap.min.css">
+ <link rel="stylesheet" type="text/css" href="css/4/bootstrap-reboot.min.css">
+ <link rel="stylesheet" type="text/css" href="css/5/bootstrap-reboot.min.css">
+ <link rel="stylesheet" type="text/css" href="css/4/bootstrap-grid.min.css">
+ <link rel="stylesheet" type="text/css" href="css/5/bootstrap-grid.min.css">
+ 
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<script src="js/jquery.min.js" ></script>
+<script src="js/4/bootstrap.min.js"></script>
+<script src="js/5/bootstrap.min.js"></script>
+</head><center>
+<body class="mybody" align="center" dir="rtl">
+<center>
+
+<nav class="navbar navbar-dark bg-dark" style="border:1px solid white;width:390px" >
+  <a class="navbar-brand bg-dark" href="#" style="margin-top:-8px" >
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+  <span class="navbar-toggler-icon"></span>
+  </button>➜منــــو و فهــرست</a>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+  <ul class="navbar-nav">
+  <div class="bg-secondary" style="font-family:mikhak;font-size:14px;">
+  <div class="theme-mobile">
+  <div style="border:1px solid black;height:1px;margin-bottom:3px" ></div>
+  <button class="dark" style="width:120px;border:1px solid black;" onclick="location.href='https://mousavishekan.github.io/';">صفحه اصلی</button>
+  <button class="tamin-button-success" style="width:120px;border:1px solid black;">فیلم آموزشی</button>
+  <button class="tamin-button-danger" style="width:120px;border:1px solid black;">تماس با ما</button>
+  <div style="border:1px solid white;color:yellow;margin-top:3px;margin-bottom:5px;background-color:black" >VPN های کانفیگ دار</div>
+  <button class="normal taminbtn" onclick="location.href='vcp.html';">
+ 	<img src="media/cl.png" style="width:32px"  >
+کانفیگ VPN CLIENT PRO</button>
+  <button class="red" style="width:102px;border:1px solid black;">💡آموزش</button>
+    <div style="border:1px solid black;height:1px;margin-bottom:3px;margin-top:3px" ></div>
+  <button class="gold taminbtn" >
+  	 	<img src="media/hc.png" style="width:32px"  >
+کانفیگ HTTP CUSTOM</button>
+  <button class="red" style="width:102px;border:1px solid black;">آموزش</button>
+     <div style="border:1px solid black;height:1px;margin-bottom:3px;margin-top:3px" ></div> 
+  <button class="dark taminbtn">
+  	 	<img src="media/hi.png" style="width:32px"  >
+  کانفیگ HTTP INJECTOR</button>
+  <button class="red" style="width:102px;border:1px solid black;">آموزش</button>
+    <div style="border:1px solid black;height:1px;margin-bottom:3px;margin-top:3px" ></div>  
+  <button class="tamin-button-default taminbtn">
+	 	<img src="media/tls0.png" style="width:32px"  >
+کانفیگ TLS TUNNEL</button>
+<button class="red" style="width:102px;border:1px solid black;">آموزش</button>
+    <div style="border:1px solid black;height:1px;margin-bottom:3px;margin-top:3px" ></div>  
+  <button class="blue taminbtn">
+	 	<img src="media/nv00.png" style="width:32px"  >
+کانفیگ NAPSTERNET V</button>
+<button class="red" style="width:102px;border:1px solid black;">آموزش</button>
+    <div style="border:1px solid black;height:1px;margin-bottom:3px;margin-top:3px" ></div>  
+  <button class="orange taminbtn">
+	 	<img src="media/sip0.png" style="width:32px"  >
+کانفیگ SOCKS  IP</button>
+<button class="red" style="width:102px;border:1px solid black;">آموزش</button>
+
+  <div style="340px;border:1px solid white;color:yellow;margin-top:3px;margin-bottom:5px;background-color:black" >VPN مستقیم و بدون نیاز به کانفیگ</div>  
+  <button class="orange" style="width:180px;border:1px solid black;color:darkblue">
+	 	<img src="media/hookv.jpg" style="width:30px"  >
+  HOOK  VPN</button>  
+  <button class="gold" style="width:180px;border:1px solid black;color:darkblue">VPN های کانفیگ دار</button>  
+  </div></div></div></ul>
+  </div>
+  </nav>
+  
+<center>
+<div class="timediv mybg2" style="border-top:0px;border-bottom:2px dashed darkgreen;"  >
+<table class="table5" ><tr>
+     <th><span id="xhafte" ></span></th>
+     <th>۞</th>            
+     <th><span id="xday" ></span></th>
+     <th>تـیـــر</th>
+     <th>/1402</th>
+     <th style="color:black" >@@@@</th>
+     <td><span id="ms" style="font-size:23px;color:white" ></span></td>
+     <td><span style="color:gold" >.</span></td>
+     <td><span id="md" style="color:#97FF00" ></span></td>
+     <td><span>:</span></td>
+     <td><span id="mh" style="color:#97FF00" ></span></td>
+ </tr>
+ </table>   
+</div>
+<header>
+	<table style="position:absolute;" >
+	  <tr>
+	    <td style="width:260px" >
+	    <span class="spanh0" >فیلترشکن رایگان میخوای؟</span><br>
+	    <span class="spanh2" >بیا به مقـر مهندس موسوی</span><br>
+	    <span class="spanh1" >https://mousavishekan.github.io</span>
+	    </td>
+	    <td style="width:120px;text-align:left" >
+	      <img src="media/mousavis1.png" class="bg-success" >  
+	    </td>
+	  </tr>
+	</table>
+</header>
+<div class="txt-head mybg2"  >
+<marquee direction="right">
+خوش آمدید؛به دلیل رفع مشکلات فنی؛بعضی از لینک‌ها کار نمی‌کنند
+</marquee>
+</div>
+
+<div style="width:380px;margin-top:0px;" align="center" >
+  <div class="theme-tamin">
+  <table border="3"  style="width:100%;font-size:14px" class="bg-success" >
+    <tr>
+      <th colspan="4" style="color:yellow;text-align:center;font-size:20px" bgcolor="black" >آرشیو مطالب</th>
+    </tr>
+    <tr style="text-align:center" >
+      <td><button class="red archivebtn" target="_blank"  onclick="location.href='1402-04-09.html';">1402/04/09</button></td>
+      <td><button class="normal archivebtn" target="_blank" hidden="hidden"  onclick="location.href='#';">#</button></td>
+      <td><button class="orange archivebtn" target="_blank" hidden="hidden"  onclick="location.href='#';">#</button></td>
+      <td><button class="dark archivebtn" target="_blank" hidden="hidden"  onclick="location.href='#';">#</button></td>
+    </tr>
+    <!--tr style="text-align:center" >
+      <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
+      <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
+      <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
+      <td><button class="gray archivebtn" onclick="location.href='#';">---</button></td>
+    </tr-->
+  </table>
+  </div>
+</div>
+
+
+    <script src="js/saat.js"></script>
+    <script src="js/tarikh.js"></script>
+
+<div style="width:380px;margin-top:0px" align="center" >
+  <div class="theme-tamin">
+  <table border="3"  style="width:100%;font-size:14px" class="bg-success" >
+    <tr>
+      <th  style="color:orange;text-align:center;font-size:20px;" bgcolor="black" >
+  <span class="icofont-warning-alt" style="font-size:25pt" id="xy" ></span>
+      </th>
+      <th colspan="2" style="width:" bgcolor="black"  id="yy" >
+<span style="font-family:mikhak;font-size:16px;" >
+
+آخرین به روز رسانی
+1402/04/18
+</span>
+      </th>
+      <th  style="color:orange;text-align:center;font-size:20px" bgcolor="black" >
+      <span class="icofont-warning-alt" style="font-size:25pt" id="xx"  ></span>
+      </th>
+
+    </tr>
+    <tr>
+     <td>
+      <img src="media/cl.png" style="width:90px" >
+     </button></td>
+     <td>
+      <img src="media/hccol.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/hi.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/tls00.png" style="width:90px" >
+     </td>
+    </tr>
+    
+    <tr>
+     <td>
+      <img src="media/siip.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/darkk0.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/nvv.png" style="width:90px" >
+     </td>
+     <td>
+      <img src="media/sh0.png" style="width:90px" >
+     </td>
+    </tr>
+  </table>
+ </div>
+</div>
+
+
+  
+
+<!--div class="timediv mybg2" style="border-bottom:6px ridge gray" >
+  <table class="t-timer" >
+    <tr class="t-th" >
+      <th>ثانیه</th>
+      <th></th>
+      <th>دقیقه</th>
+      <th></th>
+      <th>ساعت</th>
+      <th></th>
+      <th>روز</th>
+    </tr>
+    <tr class="t-td" >
+      <td><span id="sec" ></span></td>
+      <td style="color:orange" >.</td>
+      <td><span id="min" ></span></td>
+      <td style="color:orange" >:</td>
+      <td><span id="hour" ></span></td>
+      <td>➸</td>
+      <td><span id="rooz" ></span></td>
+    </tr>
+  </table>
+
+</div>
+
+<script src="js/timer.js"></script-->
+
+
+
+
+
+<!--@@@🔴🔴🔴  CLI PRO  🔴🔴🔴@@@-->
+<div align="center">
+  <div class="titrcol mgrt" >
+        <span class="titrcol0" >
+       </span>
+  </div>
+  
+  
+  
+  
+  <div class="txtbody bg-dark" >
+  
+  <!--0⃣-->
+    <div class="hc" >
+     <br>
+       <b><span class="banner txt2pic" >VPN  CLIENT  PRO</span>
+
+       <span class="banner"  >
+        <img src="media/cl.png" class="img-hc" >
+       </span><img src="media/png2.png" class="ban-img" >
+    </div>
+  
+  <div class="update" >
+  تاریخ به روز رسانی:
+  1402/04/18
+  </div>
+    <br>
+  <div class="hc" align="justify" style="margin-top:-15px" >
+  <form class="infoform">
+	<img src="media/cl.png" class="imginfo" style="text-align:right" align="right" >
+	<div class="paraf" align="right" style="text-align:justify;margin-right:160px" >
+	نسخه جدید این برنامه دارای پیشرفت های چشم گیری از جمله رفع نواقص و باگ های برنامه است که برای مثال قبلا برای اتصال به سرور زمان زیادی صرف میشد ولی با نسخه جدید این مشکل برطرف شده است و‌ به سرعت می توانید به سرورهای دلخواه دسترسی پیدا کنید.
+	</div><br>
+	<span class="paraf-span"  >
+	این برنامه کاملا اطلاعات شما را محفوظ نگه می دارد و‌ نمی گذارد به بیرون درز پیدا کند مخصوصا اطلاعاتی که در بین سرور ها جا به جا می شود‌.
+	قفل استاتیک به برنامه کمک میکند تا اطلاعات و‌ حریم‌ شخصی شما به طور کامل حفظ شود و از سرقت های احتمالی جلوگیری شود و این قفل را فقط شخصی که اتصال را برقرار می کند می تواند باز کند.
+	</span>
+	 
+	</form>
+ <center>  
+   <table class="tapp" >
+     <tbody>
+      <tr>
+       <th colspan="6" >بــخــــش    د ا نــلــــو د</th>
+      </tr>
+      <tr>
+       <th>ورژن</th>
+       <td>2.20.02</td>
+       <th>به‌روزرسانی</th>
+       <td>1402/02/03</td>
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/clqr.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/clqr.png" style="width:90px"  >
+       </a></th>
+
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/VClientP.apk';">دانلــود نـرم‌افــزار (حجـم:  7.2 مگابایت)</button>
+      </td>
+
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-dark"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/help/cl.mp4';">
+        <span style="font-family:irsblack;font-size:14px;" >
+ویدیو آموزش استفاده از فایل‌های کانفیگ
+        </span></button>  
+       </td>
+      </tr>
+     </tbody>
+   </table>
+   
+ 
+    <div class="hc" >
+    <table class="t1" >
+    <thead>
+    <tr>
+    <th  style="width:30px">کد</th>
+    <th style="width:30px" >کشور</th>
+    <th style="width:70px">نوع</th>
+    <th  style="width:60px">همراه اول</th>
+    <th style="width:50px">ایرانسل</th>
+    <th style="width:100px">اعتبار/حجم</th>
+    <th style="width:60px">دانلود</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+    <th>004</th>
+    <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
+    <td>SSH+</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>40سرور کره</td>
+    <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/004.bak';">
+    <span style="margin-top:-30px" >دانلود</span>
+    </button>
+    </td>
+    </tr>
+    <tr>
+    <th>005</th>
+    <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
+    <td>SSH+</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>40سرور روسیه</td>
+    <td>
+    <button class="btn orange" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/005.bak';">
+    <span style="margin-top:-30px" >دانلود</span>
+    </button>
+    </td>
+    </tr>
+    <tr>
+    <th>006</th>
+    <td>30سرور</td>
+    <td>پرقدرت</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>گلچین سرورهای خاص</td>
+    <td>
+    <button class="btn blue" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/006.bak';">
+    <span style="margin-top:-30px" >دانلود</span>
+    </button>
+    </td>
+    </tr>
+    <!--tr>
+    <th>020</th>
+    <td>سرورهای خصوصی</td>
+    <td>PURE</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+    <td>40سرور گلچین</td>
+    <td>
+    <button class="btn orange" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/cl/019.bak';">
+    <span style="margin-top:-30px" >دانلود</span>
+    </button>
+    </td>
+    </tr-->
+    
+
+    
+    </tbody>
+    </table>
+    
+    
+    
+<br>
+<div class="infoexp" >
+  <div class="tittr" >
+  نحوه استفاده از برنامه 
+  </div>
+  <div class="manual" >
+  <li>نرم افزار را دانلود کنید</li>
+  <li>برنامه را روی گوشی خود نصب کنید.</li>
+  <li>فایل‌های کانفیگ هر برنامه را ما هر ۲روز یکبار داخل این صفحه قرار میدهیم.فایل‌های کانفیگ مربوط به نرم‌افزار خودتان را دانلود کنید.</li>
+  <li>مطابق فیلم آموزشی که قرار دادیم فایل‌های کانفیگ را در داخل برنامه باز کنید.</li>
+  <li>از برنامه لذت ببرید</li>
+  </div>
+   <rt style="color:#0078FF;font-size:16px" >🔵</rt>
+   <rt>این نماد به معنی ((ویژه همـراه اول))</rt>
+   <br>
+   <rt style="color:#0078FF;font-size:16px" >🟡</rt>
+   <rt>این نماد به معنی ((ویژه ایــرانسـل))</rt>
+   <br>
+   
+   <rp class="fa fa-key" style="color:red;font-size:18px;" >-</rp><rt>رمز همه فایل‌ها یکی است.</rt>
+   <code style="border:1px solid red" >PASSWORD:  1</code>
+   <br>
+   <rp class="fa fa-file-circle-exclamation" style="color:red;font-size:18px" >-</rp>
+   <rt>پسوند فایلها</rt>
+   <code style="border:1px solid red;" >BAK</code>
+   <rt>می‌باشد.</rt>
+   <br>
+   <rt class="icofont-thief" style="color:red;font-size:22px;" >-</rt>
+   <rt>هرفایل شامل تعداد زیادی سـرور می‌باشد.</rt>
+	</div>  
+  
+<br>
+
+</div></td></b></div></div>
+<div class="footcol">
+.
+</div>
+
+<!--@@@🔵🔵🔵  CLI PRO  🔵🔵🔵@@@-->
+
+
+<!--@@@🔴🔴🔴  S  K  P  🔴🔴🔴@@@-->
+<div align="center">
+  <div class="titrcol mgrt" >
+        <span class="titrcol0" >
+       </span>
+  </div>
+  
+  
+  
+  
+  <div class="txtbody bg-dark" >
+  
+  
+    <div class="hc" >
+     <br>
+       <b><span class="banner txt2pic" >SOCKS HTTP</span>
+
+       <span class="banner"  >
+        <img src="media/sh.png" class="img-hc" >
+       </span><img src="media/png7.png" class="ban-img" >
+    </div>
+  
+  <div class="update" >
+  تاریخ به روز رسانی:
+  1402/04/18
+  </div>
+    <br>
+  <div class="hc" align="justify" style="margin-top:-15px" >
+  <form class="infoform">
+	<img src="media/sh.png" class="imginfo" style="text-align:right" align="right" >
+	<div class="paraf" align="right" style="text-align:justify;margin-right:160px" ><br>
+SocksIP Tunnel یک تونل HTTP است که به شما امکان می دهد با استفاده از این پروتکل به عنوان یک انتقال یک VPN ایجاد کنید که بتوانید آزادانه در شبکه های تحریم شده مرور کنید
+	</div><br>
+	<span class="paraf-span"  >
+
+
+	</span>
+	 
+	</form>
+ <center>  
+   <table class="tapp" >
+     <tbody>
+      <tr>
+       <th colspan="6" >بــخــــش    د ا نــلــــو د</th>
+      </tr>
+      <tr>
+       <th>ورژن</th>
+       <td>1.1.7</td>
+       <th>به‌روزرسانی</th>
+       <td>1402/03/01</td>
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/qrsh.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/qrsh.png" style="width:90px"  >
+       </a></th>
+
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/SocksHTTP.apk';">دانلــود نـرم‌افــزار(8 مگابایت)</button>
+      </td>
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-dark"  id="btnd2" disabled="disabled"  onclick="location.href='https://mousavishekan.github.io/files/help/hi.mp4';">
+        <span style="font-family:irsblack;font-size:14px;" >
+ویدیو آموزش استفاده از فایل‌های کانفیگ
+        </span></button>  
+       </td>
+      </tr>
+      
+     </tbody>
+   </table>
+   
+ 
+<table class="t1" >
+ <thead>
+  <tr>
+  <th  style="width:30px">کد</th>
+  <th style="width:30px" >کشور</th>
+  <th style="width:70px">نوع</th>
+  <th  style="width:60px">همراه اول</th>
+  <th style="width:50px">ایرانسل</th>
+  <th style="width:100px">اعتبار/حجم</th>
+  <th style="width:60px">دانلود</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th>001</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇸🇬</td>
+   <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/23</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/001.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+<tr>
+ <th>002</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇸🇬</td>
+ <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/23</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/002.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>003</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇸🇬</td>
+ <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/23</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/003.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>004</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+ <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/23</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/004.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>005</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+ <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/23</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/005.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>006</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇦</td>
+ <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/23</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/006.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>007</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇰🇭</td>
+ <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/23</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/007.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>008</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇵🇭</td>
+ <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/23</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/008.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>009</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇮🇩</td>
+ <td>SOCKS</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/23</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sks/009.sks';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+
+
+ </tbody></b>
+</table>
+
+    
+    
+<br>
+<div class="infoexp" >
+  <div class="tittr" >
+  نحوه استفاده از برنامه 
+  </div>
+  <div class="manual" >
+  <li>در گام نخست لازم است این برنامه را دانلود و روی گوشی اندرویدی خود نصب کنید</li>
+  <li>سپس برنامه را نصب کنید.</li>
+  <li>اکنون قبل از هرکاری شما نیاز به یک فایل کانفیگ دارید. لازم است فایل کانفیگ را دانلود کرده و روی گوشی خود آماده داشته باشید.</li>
+  <li>ما کانفیگ‌های این برنامه را بصورت دو روز یکبار درون این صفحه قرار می‌دهیم تا شما بتوانید دانلود کنید.</li>
+  <li>
+    <span>
+     حال در برنامه هایی که برای باز کردن فایل معرفی می شود لازم است
+     <br><code style="border:1px solid red;background-color:lightyellow;" >Import HTTP Custom Config</code>
+     را انتخاب کنید.
+    </span>
+  </li>
+
+  <li>
+    <span>
+کانفیگ در برنامه درون ریزی می شود اکنون کافی است روی
+     <code style="border:1px solid red;background-color:lightyellow;" >CONNECT</code>
+زنید.
+    </span>
+  </li></div>
+</div>  
+  
+<br>
+
+</div></div>
+<div class="footcol">
+.
+</div>
+</div></div>
+<!--@@@🔵🔵🔵  S  K  P  🔵🔵🔵@@@--->
+
+
+<!--@@@🔴🔴🔴  HTTP CUSTOM  🔴🔴🔴@@@-->
+<div align="center">
+  <div class="titrcol mgrt" >
+        <span class="titrcol0" >
+       </span>
+  </div>
+  
+  
+  </center></div></center></ul>
+  
+  <div class="txtbody bg-dark" >
+  
+ 
+    <div class="hc" >
+     <br>
+       <b><span class="banner txt2pic" >HTTP CUSTOM</span>
+
+       <span class="banner"  >
+        <img src="media/hc.png" class="img-hc" >
+       </span><img src="media/titrban0.jpg" class="ban-img" >
+    </div>
+  
+  <div class="update" >
+  تاریخ به روز رسانی:
+  1402/04/09
+  </div>
+    <br>
+  <div class="hc" align="justify" style="margin-top:-15px" >
+  <form class="infoform">
+	<img src="media/hc.png" class="imginfo" style="text-align:right" align="right" >
+	<div class="paraf" align="right" style="text-align:justify;margin-right:170px" ><br><br>
+یک برنامه کلاینت SSH و کلاینت شبکه خصوصی مجازی است که با هدر سفارشی درخواست HTTP اتصال امن را در شبکه اینترنت فراهم می کند.
+	</div><br><br>
+	<span class="paraf-span"  >
+این روزها در اکثر کانال ها و وب سایت ها صحبت از برنامه اچ تی تی پی کاستوم است که با استفاده از کانفیگ های مخصوص امکان اتصال و گشت و گذار امن را فراهم می کند. این برنامه درواقع یک کلاینت است که برای اتصال به سرور استفاده می شود. این اپلیکیشن مخصوص گوشی های اندرویدی طراحی شده است اما با استفاده از شبیه ساز ها می توانید در سایر سیستم عامل ها مثل ویندوز آن را اجرا کنید.
+
+	</span>
+	 
+	</form>
+ <center>  
+   <table class="tapp" >
+     <tbody>
+      <tr>
+       <th colspan="6" >بــخــــش    د ا نــلــــو د</th>
+      </tr>
+      <tr>
+       <th>ورژن</th>
+       <td>4.7.3</td>
+       <th>به‌روزرسانی</th>
+       <td>1402/03/18</td>
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/qrhc.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/qrhc.png" style="width:90px"  >
+       </a></th>
+
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/HTTPCustom.xapk';">دانلــود نـرم‌افــزار(60مگابایت)</button>
+      </td>
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-dark"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/help/hc.mp4';">
+        <span style="font-family:irsblack;font-size:14px;" >
+ویدیو آموزش استفاده از فایل‌های کانفیگ
+        </span></button>  
+       </td>
+      </tr>
+      
+     </tbody>
+   </table>
+   
+ 
+<table class="t1" >
+ <thead>
+  <tr>
+  <th  style="width:30px">کد</th>
+  <th style="width:30px" >کشور</th>
+  <th style="width:70px">نوع</th>
+  <th  style="width:60px">همراه اول</th>
+  <th style="width:50px">ایرانسل</th>
+  <th style="width:100px">اعتبار/حجم</th>
+  <th style="width:60px">دانلود</th>
+  </tr>
+ </thead>
+ <tbody>
+<tr>
+ <th>001</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/001.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>002</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/002.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>003</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/003.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>004</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/004.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>005</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/005.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>006</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/006.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>007</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/007.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>008</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/008.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>009</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/009.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+<tr>
+ <th>010</th>
+ <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+ <td>V2RAY</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+ <td>1402/04/13</td>
+ <td>
+  <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hc/010.hc';">
+<span style="margin-top:-30px" >دانلود</span>
+   </button>
+ </td>
+</tr>
+
+ </tbody></b>
+</table>
+
+    
+    
+<br>
+<div class="infoexp" >
+  <div class="tittr" >
+  نحوه استفاده از برنامه 
+  </div>
+  <div class="manual" >
+  <li>در گام نخست لازم است این برنامه را دانلود و روی گوشی اندرویدی خود نصب کنید</li>
+  <li>سپس برنامه را نصب کنید.</li>
+  <li>اکنون قبل از هرکاری شما نیاز به یک فایل کانفیگ دارید. لازم است فایل کانفیگ را دانلود کرده و روی گوشی خود آماده داشته باشید.</li>
+  <li>ما کانفیگ‌های این برنامه را بصورت دو روز یکبار درون این صفحه قرار می‌دهیم تا شما بتوانید دانلود کنید.</li>
+  <li>
+    <span>
+     حال در برنامه هایی که برای باز کردن فایل معرفی می شود لازم است
+     <br><code style="border:1px solid red;background-color:lightyellow;" >Import HTTP Custom Config</code>
+     را انتخاب کنید.
+    </span>
+  </li>
+
+  <li>
+    <span>
+کانفیگ در برنامه درون ریزی می شود اکنون کافی است روی
+     <code style="border:1px solid red;background-color:lightyellow;" >CONNECT</code>
+زنید.
+    </span>
+  </li></div>
+</div>  
+  
+<br>
+
+</div></div>
+<div class="footcol">
+.
+</div>
+
+<!--@@@🔵🔵🔵  HTTP CUSTOM  🔵🔵🔵@@@-->
+
+<!--@@@🔴🔴🔴  HTTP INJECTOR  🔴🔴🔴@@@--
+<div align="center">
+  <div class="titrcol mgrt" >
+        <span class="titrcol0" >
+       </span>
+  </div>
+  
+  
+  
+  
+  <div class="txtbody bg-dark" >
+  
+  
+    <div class="hc" >
+     <br>
+       <b><span class="banner txt2pic" >HTTP INJECTOR</span>
+
+       <span class="banner"  >
+        <img src="media/0hi.png" class="img-hc" >
+       </span><img src="media/png7.png" class="ban-img" >
+    </div>
+  
+  <div class="update" >
+  تاریخ به روز رسانی:
+  1402/03/24
+  </div>
+    <br>
+  <div class="hc" align="justify" style="margin-top:-15px" >
+  <form class="infoform">
+	<img src="media/hj.jpg" class="imginfo" style="text-align:right" align="right" >
+	<div class="paraf" align="right" style="text-align:justify;margin-right:160px" ><br>
+HTTP Injector یک ابزار حرفه ای Virtual Private Network یا شبکه خصوصی مجازی است که به شما امکان می دهد با اطمینان، حفظ حریم خصوصی و امنیت در اینترنت بگردید.
+	</div><br>
+	<span class="paraf-span"  >
+این برنامه به عنوان یک کلاینت گلوبال برای پروتکل های SSH/Proxy/SSL Tunnel/DNS Tunnel/Shadowsocks کار می کند تا اتصال شما را رمزگذاری کند تا بتوانید به صورت خصوصی و ایمن در اینترنت گشت و گذار کنید. علاوه بر این، به شما کمک می کند تا به وب سایت های مسدود شده در پشت فایروال دسترسی پیدا کنید
+
+	</span>
+	 
+	</form>
+ <center>  
+   <table class="tapp" >
+     <tbody>
+      <tr>
+       <th colspan="6" >بــخــــش    د ا نــلــــو د</th>
+      </tr>
+      <tr>
+       <th>ورژن</th>
+       <td>5.9.1</td>
+       <th>به‌روزرسانی</th>
+       <td>1402/01/01</td>
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/qrhi.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/qrhi.png" style="width:90px"  >
+       </a></th>
+
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/HTTPInjector.apk';">دانلــود نـرم‌افــزار(17 مگابایت)</button>
+      </td>
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-dark"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/help/hi.mp4';">
+        <span style="font-family:irsblack;font-size:14px;" >
+ویدیو آموزش استفاده از فایل‌های کانفیگ
+        </span></button>  
+       </td>
+      </tr>
+      
+     </tbody>
+   </table>
+   
+ 
+<table class="t1" >
+ <thead>
+  <tr>
+  <th  style="width:30px">کد</th>
+  <th style="width:30px" >کشور</th>
+  <th style="width:70px">نوع</th>
+  <th  style="width:60px">همراه اول</th>
+  <th style="width:50px">ایرانسل</th>
+  <th style="width:100px">اعتبار/حجم</th>
+  <th style="width:60px">دانلود</th>
+  </tr>
+ </thead>
+ <tbody>
+   <tr>
+   <th>045</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇬🇧</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/045.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>046</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/046.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>047</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇩🇪</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/047.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>048</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/048.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>049</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇰🇷</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/049.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>050</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇸🇬</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/050.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>051</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇸🇬</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/051.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>052</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/052.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>053</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/053.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>054</th>
+   <td bgcolor="silver"  style="font-size:30px;">👻</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/054.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>055</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇸🇬</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/055.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>056</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇧🇭</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/056.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>057</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/057.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>058</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/058.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   <tr>
+   <th>059</th>
+   <td bgcolor="silver"  style="font-size:30px;">👻</td>
+   <td>SSH</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/03/29</td>
+   <td>
+   <button class="btn dark" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/hi/059.ehi';">
+   <span style="margin-top:-30px" >دانلود</span>
+   </button>
+   </td>
+   </tr>
+   
+   
+   
+  
+
+ </tbody></b>
+</table>
+
+    
+    
+<br>
+<div class="infoexp" >
+  <div class="tittr" >
+  نحوه استفاده از برنامه 
+  </div>
+  <div class="manual" >
+  <li>در گام نخست لازم است این برنامه را دانلود و روی گوشی اندرویدی خود نصب کنید</li>
+  <li>سپس برنامه را نصب کنید.</li>
+  <li>اکنون قبل از هرکاری شما نیاز به یک فایل کانفیگ دارید. لازم است فایل کانفیگ را دانلود کرده و روی گوشی خود آماده داشته باشید.</li>
+  <li>ما کانفیگ‌های این برنامه را بصورت دو روز یکبار درون این صفحه قرار می‌دهیم تا شما بتوانید دانلود کنید.</li>
+  <li>
+    <span>
+     حال در برنامه هایی که برای باز کردن فایل معرفی می شود لازم است
+     <br><code style="border:1px solid red;background-color:lightyellow;" >Import HTTP Custom Config</code>
+     را انتخاب کنید.
+    </span>
+  </li>
+
+  <li>
+    <span>
+کانفیگ در برنامه درون ریزی می شود اکنون کافی است روی
+     <code style="border:1px solid red;background-color:lightyellow;" >CONNECT</code>
+زنید.
+    </span>
+  </li></div>
+</div>  
+  
+<br>
+
+</div></div>
+<div class="footcol">
+.
+</div>
+</div></div>
+<!--@@@🔵🔵🔵  HTTP  INJECTOR  🔵🔵🔵@@@--->
+
+<!--@@@🔴🔴🔴  TLS  🔴🔴🔴@@@-->
+<div align="center">
+  <div class="titrcol mgrt" >
+        <span class="titrcol0" >
+       </span>
+  </div>
+  
+  
+  
+  
+  <div class="txtbody bg-dark" >
+  
+  
+    <div class="hc" >
+     <br>
+       <b><span class="banner txt2pic" >TLS TUNNEL</span>
+
+       <span class="banner"  >
+        <img src="media/tls2.png" class="img-hc" >
+       </span><img src="media/newbk.png" class="ban-img" >
+    </div>
+  
+  <div class="update" >
+  تاریخ به روز رسانی:
+  1402/04/09
+  </div>
+    <br>
+  <div class="hc" align="justify" style="margin-top:-15px" >
+  <form class="infoform">
+	<img src="media/tls2.png" class="imginfo" style="text-align:right" align="right" >
+	<div class="paraf" align="right" style="text-align:justify;margin-right:155px;font-weight:bolder;" ><br>
+TLS Tunnel یک VPN رایگان است که هدف آن عبور از موانع تحمیل شده توسط ارائه دهندگان اینترنت و دولت ها و تضمین حریم خصوصی، آزادی و ناشناس بودن کاربران است.
+	</div><br><br>
+	<span class="paraf-span"  >
+سرورهای رسمی موجود از یک پروتکل اختصاصی استفاده می کنند که ما آن را TLSVPN می نامیم، این یک پروتکل ساده است که از اتصال با استفاده از TLS 1.3 (و TLS 1.2 به صورت اختیاری) محافظت می کند، همان چیزی که در سایت های HTTPS استفاده می شود، با یک گواهی امضا شده که در زمان تایید شده است.
+
+	</span>
+	 
+	</form>
+ <center>  
+   <table class="tapp" >
+     <tbody>
+      <tr>
+       <th colspan="6" >بــخــــش    د ا نــلــــو د</th>
+      </tr>
+      <tr>
+       <th>ورژن</th>
+       <td>5.0.7</td>
+       <th>به‌روزرسانی</th>
+       <td>1402/01/01</td>
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/qrtls.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/qrtls.png" style="width:90px"  >
+       </a></th>
+
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/TLS Tunnel.apk';">دانلــود نـرم‌افــزار(20 مگابایت)</button>
+      </td>
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-dark" disabled="disabled"   id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/help/hi.mp4';">
+        <span style="font-family:irsblack;font-size:14px;" >
+ویدیو آموزش استفاده از فایل‌های کانفیگ
+        </span></button>  
+       </td>
+      </tr>
+      
+     </tbody>
+   </table>
+   
+ 
+<table class="t1" >
+ <thead>
+  <tr>
+  <th  style="width:30px">کد</th>
+  <th style="width:30px" >کشور</th>
+  <th style="width:70px">نوع</th>
+  <th  style="width:60px">همراه اول</th>
+  <th style="width:50px">ایرانسل</th>
+  <th style="width:100px">اعتبار/حجم</th>
+  <th style="width:60px">دانلود</th>
+  </tr>
+ </thead>
+ <tbody>
+ <tr>
+  <th>001</th>
+  <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+  <td>SSH</td>
+  <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+  <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+  <td>1402/04/11</td>
+  <td>
+   <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/tls/001.tls';">
+ <span style="margin-top:-30px" >دانلود</span>
+    </button>
+  </td>
+ </tr>
+ <tr>
+  <th>002</th>
+  <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+  <td>SSH</td>
+  <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+  <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+  <td>1402/04/11</td>
+  <td>
+   <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/tls/002.tls';">
+ <span style="margin-top:-30px" >دانلود</span>
+    </button>
+  </td>
+ </tr>
+ <tr>
+  <th>003</th>
+  <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+  <td>SSH</td>
+  <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+  <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+  <td>1402/04/11</td>
+  <td>
+   <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/tls/003.tls';">
+ <span style="margin-top:-30px" >دانلود</span>
+    </button>
+  </td>
+ </tr>
+ <tr>
+  <th>004</th>
+  <td bgcolor="silver"  style="font-size:30px;">🇺🇸</td>
+  <td>SSH</td>
+  <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+  <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+  <td>1402/04/11</td>
+  <td>
+   <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/tls/004.tls';">
+ <span style="margin-top:-30px" >دانلود</span>
+    </button>
+  </td>
+ </tr>
+ <tr>
+  <th>005</th>
+  <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
+  <td>SSH</td>
+  <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+  <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+  <td>1402/04/11</td>
+  <td>
+   <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/tls/005.tls';">
+ <span style="margin-top:-30px" >دانلود</span>
+    </button>
+  </td>
+ </tr>
+ <tr>
+  <th>006</th>
+  <td bgcolor="silver"  style="font-size:30px;">🇷🇺</td>
+  <td>SSH</td>
+  <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+  <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+  <td>1402/04/11</td>
+  <td>
+   <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/tls/006.tls';">
+ <span style="margin-top:-30px" >دانلود</span>
+    </button>
+  </td>
+ </tr>
+ 
+
+ </tbody></b>
+</table>
+
+    
+    
+<br>
+<div class="infoexp" >
+  <div class="tittr" >
+  نحوه استفاده از برنامه 
+  </div>
+  <div class="manual" >
+  <li>در گام نخست لازم است این برنامه را دانلود و روی گوشی اندرویدی خود نصب کنید</li>
+  <li>سپس برنامه را نصب کنید.</li>
+  <li>اکنون قبل از هرکاری شما نیاز به یک فایل کانفیگ دارید. لازم است فایل کانفیگ را دانلود کرده و روی گوشی خود آماده داشته باشید.</li>
+  <li>ما کانفیگ‌های این برنامه را بصورت دو روز یکبار درون این صفحه قرار می‌دهیم تا شما بتوانید دانلود کنید.</li>
+  <li>
+    <span>
+     حال در برنامه هایی که برای باز کردن فایل معرفی می شود لازم است
+     <br><code style="border:1px solid red;background-color:lightyellow;" >Import HTTP Custom Config</code>
+     را انتخاب کنید.
+    </span>
+  </li>
+
+  <li>
+    <span>
+کانفیگ در برنامه درون ریزی می شود اکنون کافی است روی
+     <code style="border:1px solid red;background-color:lightyellow;" >CONNECT</code>
+زنید.
+    </span>
+  </li></div>
+</div>  
+  
+<br>
+
+</div></div>
+<div class="footcol">
+.
+</div>
+</div></div>
+<!--@@@🔵🔵🔵  TLS  🔵🔵🔵@@@--->
+
+
+<!--@@@🔴🔴🔴  S  I  P  🔴🔴🔴@@@-->
+<div align="center">
+  <div class="titrcol mgrt" >
+        <span class="titrcol0" >
+       </span>
+  </div>
+  
+  
+  
+  
+  <div class="txtbody bg-dark" >
+  
+  
+    <div class="hc" >
+     <br>
+       <b><span class="banner txt2pic" >SOCKSIP TUNNEL</span>
+
+       <span class="banner"  >
+        <img src="media/sip0.png" class="img-hc" >
+       </span><img src="media/png7.png" class="ban-img" >
+    </div>
+  
+  <div class="update" >
+  تاریخ به روز رسانی:
+  1402/04/09
+  </div>
+    <br>
+  <div class="hc" align="justify" style="margin-top:-15px" >
+  <form class="infoform">
+	<img src="media/sip0.png" class="imginfo" style="text-align:right" align="right" >
+	<div class="paraf" align="right" style="text-align:justify;margin-right:160px" ><br>
+SocksIP Tunnel یک تونل HTTP است که به شما امکان می دهد با استفاده از این پروتکل به عنوان یک انتقال یک VPN ایجاد کنید که بتوانید آزادانه در شبکه های تحریم شده مرور کنید
+	</div><br>
+	<span class="paraf-span"  >
+این برنامه به شما امکان می دهد تا سانسور موجود در برخی مکان ها ، پیکربندی بارگیری آسان و قابل استفاده را نادیده بگیرید.شما باید سرور IP Socks را بر روی سرور خود نصب کرده باشید ، در حال حاضر سرویس سرور SocksIP در دسترس عموم نیست. اما به شما سرورهای عمومی در برنامه داده می شود.
+
+	</span>
+	 
+	</form>
+ <center>  
+   <table class="tapp" >
+     <tbody>
+      <tr>
+       <th colspan="6" >بــخــــش    د ا نــلــــو د</th>
+      </tr>
+      <tr>
+       <th>ورژن</th>
+       <td>15.8.2</td>
+       <th>به‌روزرسانی</th>
+       <td>1402/01/01</td>
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/qrsip.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/qrsip.png" style="width:90px"  >
+       </a></th>
+
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/SIP.apk';">دانلــود نـرم‌افــزار(17 مگابایت)</button>
+      </td>
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-dark"  id="btnd2" disabled="disabled"  onclick="location.href='https://mousavishekan.github.io/files/help/hi.mp4';">
+        <span style="font-family:irsblack;font-size:14px;" >
+ویدیو آموزش استفاده از فایل‌های کانفیگ
+        </span></button>  
+       </td>
+      </tr>
+      
+     </tbody>
+   </table>
+   
+ 
+<table class="t1" >
+ <thead>
+  <tr>
+  <th  style="width:30px">کد</th>
+  <th style="width:30px" >کشور</th>
+  <th style="width:70px">نوع</th>
+  <th  style="width:60px">همراه اول</th>
+  <th style="width:50px">ایرانسل</th>
+  <th style="width:100px">اعتبار/حجم</th>
+  <th style="width:60px">دانلود</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th>001</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>SOCKS</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/12</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sip/001.sip';">
+<span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>002</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>SOCKS</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/12</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sip/002.sip';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>003</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>SOCKS</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/12</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sip/003.sip';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>004</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>SOCKS</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/12</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sip/004.sip';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>005</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>SOCKS</td>
+   <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/12</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sip/005.sip';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+<tr>
+  <th>006</th>
+  <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+  <td>SOCKS</td>
+  <td class="icofont-ui-close" style="color:red;font-size:20px" >️</td>
+  <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/12</td>
+  <td>
+   <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/sip/006.sip';">
+ <span style="margin-top:-30px" >دانلود</span>
+    </button>
+  </td>
+ </tr>
+
+  
+
+
+ </tbody></b>
+</table>
+
+    
+    
+<br>
+<div class="infoexp" >
+  <div class="tittr" >
+  نحوه استفاده از برنامه 
+  </div>
+  <div class="manual" >
+  <li>در گام نخست لازم است این برنامه را دانلود و روی گوشی اندرویدی خود نصب کنید</li>
+  <li>سپس برنامه را نصب کنید.</li>
+  <li>اکنون قبل از هرکاری شما نیاز به یک فایل کانفیگ دارید. لازم است فایل کانفیگ را دانلود کرده و روی گوشی خود آماده داشته باشید.</li>
+  <li>ما کانفیگ‌های این برنامه را بصورت دو روز یکبار درون این صفحه قرار می‌دهیم تا شما بتوانید دانلود کنید.</li>
+  <li>
+    <span>
+     حال در برنامه هایی که برای باز کردن فایل معرفی می شود لازم است
+     <br><code style="border:1px solid red;background-color:lightyellow;" >Import HTTP Custom Config</code>
+     را انتخاب کنید.
+    </span>
+  </li>
+
+  <li>
+    <span>
+کانفیگ در برنامه درون ریزی می شود اکنون کافی است روی
+     <code style="border:1px solid red;background-color:lightyellow;" >CONNECT</code>
+زنید.
+    </span>
+  </li></div>
+</div>  
+  
+<br>
+
+</div></div>
+<div class="footcol">
+.
+</div>
+</div></div>
+<!--@@@🔵🔵🔵  S  I  P  🔵🔵🔵@@@--->
+
+
+<!--@@@🔴🔴🔴  N  V  🔴🔴🔴@@@-->
+<div align="center">
+  <div class="titrcol mgrt" >
+        <span class="titrcol0" >
+       </span>
+  </div>
+  
+  
+  
+  
+  <div class="txtbody bg-dark" >
+  
+  
+    <div class="hc" >
+     <br>
+       <b><span class="banner txt2pic" >NAPSTERNET V</span>
+
+       <span class="banner"  >
+        <img src="media/nvv.png" class="img-hc" >
+       </span><img src="media/png7.png" class="ban-img" >
+    </div>
+  
+  <div class="update" >
+  تاریخ به روز رسانی:
+  1402/04/18
+  </div>
+    <br>
+  <div class="hc" align="justify" style="margin-top:-15px" >
+  <form class="infoform">
+	<img src="media/nvv.png" class="imginfo" style="text-align:right" align="right" >
+	<div class="paraf" align="right" style="text-align:justify;margin-right:160px" >
+برنامه کاربردی NAPSTERNETV یک برنامه برای اتصال امن و تغییر آی پی است که برای سیستم عامل اندروید و آیفون فعال است.
+این اپ در فروشگاه گوگل پلی و App Store فعال است و موفق شده به امتیاز 4.0 در گوگل پلی و به امتیاز 4.2 اپل استور برسد.
+	</div><br>
+	<span class="paraf-span"  >
+
+
+	</span>
+	 
+	</form>
+ <center>  
+   <table class="tapp" >
+     <tbody>
+      <tr>
+       <th colspan="6" >بــخــــش    د ا نــلــــو د</th>
+      </tr>
+      <tr>
+       <th>ورژن</th>
+       <td>62.0.0</td>
+       <th>به‌روزرسانی</th>
+       <td>1402/04/01</td>
+       <th rowspan="3"  ><a href="https://mousavishekan.github.io/media/qrnv.png" target="_blank" onclick="_blank" type="_blank" >
+        <img src="media/qrnv.png" style="width:90px"  >
+       </a></th>
+
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-primary"  id="btnd2" onclick="location.href='https://mousavishekan.github.io/files/NapsternetV.apk';">دانلــود نـرم‌افــزار(39 مگابایت)</button>
+      </td>
+      </tr>
+      <tr>
+       <td colspan="4" >
+        <button class="btn btn-dark"  id="btnd2" disabled="disabled"  onclick="location.href='https://mousavishekan.github.io/files/help/hi.mp4';">
+        <span style="font-family:irsblack;font-size:14px;" >
+ویدیو آموزش استفاده از فایل‌های کانفیگ
+        </span></button>  
+       </td>
+      </tr>
+      
+     </tbody>
+   </table>
+   
+ 
+<table class="t1" >
+ <thead>
+  <tr>
+  <th  style="width:30px">کد</th>
+  <th style="width:30px" >کشور</th>
+  <th style="width:70px">نوع</th>
+  <th  style="width:60px">همراه اول</th>
+  <th style="width:50px">ایرانسل</th>
+  <th style="width:100px">اعتبار/حجم</th>
+  <th style="width:60px">دانلود</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th>001</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>اندروید</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/20</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/nv/001.npv4';">
+<span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>002</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>اندروید</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/20</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/nv/002.npv4';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>003</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>اندروید</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/20</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/nv/003.npv4';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>004</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>اندروید</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/20</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/nv/004.npv4';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>005</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>اندروید</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/20</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/nv/005.npv4';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>006</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>اندروید</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/20</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/nv/006.npv4';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>007</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>اندروید</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/20</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/nv/007.npv4';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  <tr>
+   <th>008</th>
+   <td bgcolor="silver"  style="font-size:30px;">🇨🇦</td>
+   <td>اندروید</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td class="icofont-ui-check" style="color:green;font-size:20px" >️</td>
+   <td>1402/04/20</td>
+   <td>
+    <button class="btn red" style="color:white" onclick="location.href='https://mousavishekan.github.io/config/nv/008.npv4';">
+  <span style="margin-top:-30px" >دانلود</span>
+     </button>
+   </td>
+  </tr>
+  
+
+
+ </tbody></b>
+</table>
+
+    
+    
+<br>
+<div class="infoexp" >
+  <div class="tittr" >
+  نحوه استفاده از برنامه 
+  </div>
+  <div class="manual" >
+  <li>در گام نخست لازم است این برنامه را دانلود و روی گوشی اندرویدی خود نصب کنید</li>
+  <li>سپس برنامه را نصب کنید.</li>
+  <li>اکنون قبل از هرکاری شما نیاز به یک فایل کانفیگ دارید. لازم است فایل کانفیگ را دانلود کرده و روی گوشی خود آماده داشته باشید.</li>
+  <li>ما کانفیگ‌های این برنامه را بصورت دو روز یکبار درون این صفحه قرار می‌دهیم تا شما بتوانید دانلود کنید.</li>
+  <li>
+    <span>
+     حال در برنامه هایی که برای باز کردن فایل معرفی می شود لازم است
+     <br><code style="border:1px solid red;background-color:lightyellow;" >Import HTTP Custom Config</code>
+     را انتخاب کنید.
+    </span>
+  </li>
+
+  <li>
+    <span>
+کانفیگ در برنامه درون ریزی می شود اکنون کافی است روی
+     <code style="border:1px solid red;background-color:lightyellow;" >CONNECT</code>
+زنید.
+    </span>
+  </li></div>
+</div>  
+  
+<br>
+
+</div></div>
+<div class="footcol">
+.
+</div>
+</div></div>
+<!--@@@🔵🔵🔵  N  V  🔵🔵🔵@@@--->
+
+
+<footer>
+.
+<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
+<!-- Histats.com  START  (aync)-->
+<script type="text/javascript">var _Hasync= _Hasync|| [];
+_Hasync.push(['Histats.start', '1,4752517,4,604,110,55,00011111']);
+_Hasync.push(['Histats.fasi', '1']);
+_Hasync.push(['Histats.track_hits', '']);
+(function() {
+var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+hs.src = ('//s10.histats.com/js15_as.js');
+(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+})();</script>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4752517&101" alt="" border="0"></a></noscript>
+<!-- Histats.com  END  -->
+</footer>
+ 
+<script type="text/javascript">
+xy == 0;
+var intxy = setInterval(function() {
+if(xy == 0){
+
+xy == 1;
+document.getElementById("xy").style.color = "yellow";
+}else{
+xy == 0;
+document.getElementById("xy").style.color = "red";
+}
+}, 1000);
+</script>
+<script type="text/javascript">
+xy == 0;
+var intxy = setInterval(function() {
+if(xy == 0){
+
+xy == 1;
+document.getElementById("xx").style.color = "yellow";
+}else{
+xy == 0;
+document.getElementById("xx").style.color = "red";
+}
+}, 1000);
+</script>
+<script type="text/javascript">
+xy == 0;
+var intxy = setInterval(function() {
+if(xy == 0){
+
+xy == 1;
+document.getElementById("yy").style.color = "yellow";
+}else{
+xy == 0;
+document.getElementById("yy").style.color = "red";
+}
+}, 1000);
+</script>
+</body>
+<script src="js/timer.js"></script>
+<script src="js/jquery.slim.min.js" ></script>
+<script src="js/4/bootstrap.bundle.min.js"></script>
+<script src="js/5/bootstrap.bundle.min.js"></script>
+</center>
+ 
+  </body>
+</html>
